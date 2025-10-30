@@ -1,4 +1,5 @@
-
+# THIS FORK IS FOR TESTING PURPOSES. It is significantly out of date with upstream, and modified. Do not use.
+ 
 # CSV
 
 *A fast, flexible delimited file reader/writer for Julia.*
